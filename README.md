@@ -49,22 +49,28 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
 ## :hammer_and_wrench: Technical skills
 
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
+  <table>
+    <tr>
+      <td valign="top">
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
+        <code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+        <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DJ-lezama&show_icons=true&locale=en&layout=compact" alt="DJ-lezama" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DJ-lezama&show_icons=true&locale=en&layout=compact" alt="DJ-lezama" /></p>
-
 
 ## Connect with Me
 - [LinkedIn](#)
