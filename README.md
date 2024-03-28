@@ -17,7 +17,7 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
   - Microsoft Corporation, Washington, USA
   - May 2024 - August 2024
 
-## :trophy: Experience and Competitions
+## :trophy: Competitions
 
 - **ENACTUS FEM Coding Challenge (3rd place)**
   - Developed the "Nexus" iOS app for mentor-mentee connections.
