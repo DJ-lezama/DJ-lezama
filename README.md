@@ -8,12 +8,12 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
 
 - **Universidad de las Américas Puebla (UDLAP), Mexico**
   - Bachelor of Science in Computer Systems Engineering
-  - January 2022 - December 2026
+  - January 2022 - December 2025
   - Honors Program participant focusing on artificial vision for object detection and recognition in dynamic automotive environments.
 
 ## :briefcase: Professional Experience
 
-- **Incoming Microsoft Explore Intern**
+- **Microsoft Explore Intern**
   - Microsoft Corporation, Washington, USA
   - May 2024 - August 2024
 
