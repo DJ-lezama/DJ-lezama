@@ -16,6 +16,9 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
 - **Microsoft Explore Intern**
   - Microsoft Corporation, Washington, USA
   - May 2024 - August 2024
+- **Incoming Microsoft SWE Intern**
+  - Microsoft Corporation, Washington, USA
+  - May 2025 - August 2025
 
 ## :trophy: Competitions
 
@@ -27,6 +30,8 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
   - Developed an iOS app focusing on gender equality and access to health information.
 - **iOS Development Lab Local Hackathon (2nd place)**
   - Developed 'Ecommunity', an app focusing on environmental issues and community engagement.
+- **ENACTUS Changemakers Social Challenge (2rd place)**
+  - Developed a mobile application utilizing Apple technologies and YOLOv5 object detection, to detect road hazards in real-time, providing auditory alerts to drivers and actionable insights for city planners to enhance road safety and sustainability.
 
 ## :busts_in_silhouette: Leadership Activities
 
