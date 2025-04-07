@@ -70,12 +70,13 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
         <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
         <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
       </td>
-      <td valign="top">
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-lezama&layout=compact)
-      </td>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-lezama&layout=compact&theme=radical)
+
     </tr>
   </table>
 </div>
+
+
 
 ## Connect with Me
 - [LinkedIn](#)
