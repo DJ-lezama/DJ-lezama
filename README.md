@@ -71,7 +71,7 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
         <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DJ-lezama&show_icons=true&locale=en&layout=compact" alt="DJ-lezama" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DJ-lezama)](https://github.com/anuraghazra/github-readme-stats) />
       </td>
     </tr>
   </table>
