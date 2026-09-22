@@ -8,8 +8,8 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
 
 - **Universidad de las Américas Puebla (UDLAP), Mexico**
   - Bachelor of Science in Computer Systems Engineering
-  - January 2022 - December 2025
-  - Honors Program participant focusing on artificial vision for object detection and recognition in dynamic automotive environments.
+  - January 2022 - June 2026
+  - Honors Program participant
 
 ## :briefcase: Professional Experience
 
