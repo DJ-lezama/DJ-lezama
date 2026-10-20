@@ -16,7 +16,7 @@ Hello! I'm Dicka Jamesina Lezama Alvarado, a Computer Systems Engineering studen
 - **Microsoft Explore Intern**
   - Microsoft Corporation, Washington, USA
   - May 2024 - August 2024
-- **Incoming Microsoft SWE Intern**
+- **Microsoft SWE Intern**
   - Microsoft Corporation, Washington, USA
   - May 2025 - August 2025
 
